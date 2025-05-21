@@ -9,7 +9,7 @@ import { HousingLocation } from "../housinglocation";
   template: `
     <section>
       <form>
-        <input type="text" placeholder="Filte r by city" />
+        <input type="text" placeholder="Filte git r by city" />
         <button class="primary" type="button">Search</button>
       </form>
     </section>
